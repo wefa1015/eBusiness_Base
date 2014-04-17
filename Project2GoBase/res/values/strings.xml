@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project2Go</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Office</string>
+    <string name="title_section2">Meeting Room</string>
+    <string name="title_section3">Dashboard</string>
+    <string name="title_section4">Project Settings</string>
+
+</resources>
